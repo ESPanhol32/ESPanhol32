@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b001f,40:800050,100:ff69b4&height=240&section=header&text=Nome%20do%20Rockstar&fontSize=30&fontColor=ffc0cb&fontAlignY=38&desc=C%20%7C%20Código%20Pesado%20%7C%20Rock%20Pesado&descSize=15&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b001f,40:800050,100:ff69b4&height=240&section=header&text=Leon%20Pointer%20da%20Fazenda&fontSize=30&fontColor=ffc0cb&fontAlignY=38&desc=C%20%7C%20Código%20Pesado%20%7C%20Rock%20Pesado&descSize=15&descAlignY=60&descAlign=50"/>
 </p>
 
 <p align="center">
@@ -10,7 +10,8 @@
 
 <div style="background:rgba(255,105,180,0.12); padding:18px; border-radius:14px; border:1px solid rgba(255,105,180,0.5);">
 <p align="center" style="margin:0;">
-  <b>Engenheiro do caos (em evolução)</b><br>
+  <b>Leon Pointer da Fazenda</b><br>
+  Engenheiro do caos (em evolução)<br>
   Linguagem C • Firmware • Rock na veia 🎸🔥
 </p>
 </div>
@@ -50,8 +51,8 @@ Objetivo: dominar o firmware… e os palcos.
 ## Estatísticas (porque o ego precisa de métricas)
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ESPanhol32&show_icons=true&theme=dark&title_color=ff69b4&icon_color=ff69b4&text_color=FFFFFF"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESPanhol32&layout=compact&theme=dark&title_color=ff69b4&text_color=FFFFFF"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Espanhol32&show_icons=true&theme=dark&title_color=ff69b4&icon_color=ff69b4&text_color=FFFFFF"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Espanhol32&layout=compact&theme=dark&title_color=ff69b4&text_color=FFFFFF"/>
 </p>
 
 ---
@@ -59,7 +60,7 @@ Objetivo: dominar o firmware… e os palcos.
 ## Atividade (turnê mundial do código)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ESPanhol32&theme=github-dark&color=ff69b4&line=800050&point=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Espanhol32&theme=github-dark&color=ff69b4&line=800050&point=FFFFFF"/>
 </p>
 
 ---
@@ -67,7 +68,7 @@ Objetivo: dominar o firmware… e os palcos.
 ## Sequência (sem dormir, só código e rock)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ESPanhol32&theme=dark&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
+  <img src="https://streak-stats.demolab.com?user=Espanhol32&theme=dark&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
 </p>
 
 ---
