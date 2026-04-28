@@ -50,8 +50,8 @@ Objetivo: dominar o firmware… e os palcos.
 ## Estatísticas (porque o ego precisa de métricas)
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_AQUI&show_icons=true&theme=dark&title_color=ff69b4&icon_color=ff69b4&text_color=FFFFFF"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_AQUI&layout=compact&theme=dark&title_color=ff69b4&text_color=FFFFFF"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ESPanhol32&show_icons=true&theme=dark&title_color=ff69b4&icon_color=ff69b4&text_color=FFFFFF"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESPanhol32&layout=compact&theme=dark&title_color=ff69b4&text_color=FFFFFF"/>
 </p>
 
 ---
@@ -59,7 +59,7 @@ Objetivo: dominar o firmware… e os palcos.
 ## Atividade (turnê mundial do código)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_AQUI&theme=github-dark&color=ff69b4&line=800050&point=FFFFFF"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ESPanhol32&theme=github-dark&color=ff69b4&line=800050&point=FFFFFF"/>
 </p>
 
 ---
@@ -67,7 +67,7 @@ Objetivo: dominar o firmware… e os palcos.
 ## Sequência (sem dormir, só código e rock)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_AQUI&theme=dark&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
+  <img src="https://streak-stats.demolab.com?user=ESPanhol32&theme=dark&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4"/>
 </p>
 
 ---
