@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3500&pause=1200&color=ff69b4&center=true&vCenter=true&width=700&lines=Programo+em+C+porque+sou+raiz;Compilo+na+força+do+ódio;Quebro+bugs+igual+quebro+guitarra;Uma+banda+inteira+em+uma+pessoa+só;Futuro+lenda+do+rock+e+do+código"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3500&pause=1200&color=ff69b4&center=true&vCenter=true&width=700&lines=Programo+em+C+porque+sou+raiz;Compilo+na+força+do+ódio;Quebro+bugs+igual+quebro+guitarra;Uma+banda+inteira+em+uma+pessoa+só;Futura+lenda+do+rock+e+do+código"/>
 </p>
 
 ---
